@@ -117,7 +117,7 @@ header a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(/images/frame.jpg) center center/cover;
+  background: url(../images/frame.jpg) center center/cover;
 }
 
 .vp-content {
