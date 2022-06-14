@@ -1,3 +1,4 @@
+/***** RESET *****/
 * {
   margin: 0;
   padding: 0;
@@ -39,8 +40,7 @@ em {
   color: #555;
 }
 
-/* class  */
-
+/***** CLASS *****/
 .container {
   display: block;
   max-width: 1200px;
@@ -58,8 +58,7 @@ em {
   color: white;
 }
 
-/* vp + header */
-
+/***** VP + HEADER *****/
 .vp-container {
   min-height: 100vh;
   display: flex;
@@ -139,8 +138,7 @@ header a {
   line-height: 2rem;
 }
 
-/* Offer */
-
+/***** OFFER *****/
 .offer {
   padding: 10rem 1rem 10rem 1rem;
 }
@@ -174,8 +172,7 @@ header a {
   background: #333;
 }
 
-/* who */
-
+/***** WHO *****/
 .who {
   display: flex;
   flex-flow: row nowrap;
@@ -204,7 +201,7 @@ header a {
   line-height: 1.8rem;
 }
 
-/* Testimonials */
+/***** TESTIMONIALS *****/
 .testimonials {
   padding: 5rem 1rem 5rem 1rem;
 }
@@ -245,8 +242,7 @@ header a {
   margin-bottom: 0.5rem;
 }
 
-/* Contact */
-
+/***** CONTACT *****/
 .contact {
   padding: 10rem 1rem 10rem 1rem;
   display: flex;
@@ -289,7 +285,7 @@ header a {
   background: red;
 }
 
-/* Footer */
+/***** FOOTER *****/
 footer {
   background: #444;
   padding: 5rem 1rem 5rem 1rem;

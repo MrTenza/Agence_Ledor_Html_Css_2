@@ -1,10 +1,9 @@
-/* Class */
+/***** CLASS *****/
 .title {
   text-align: center;
 }
 
-/* vp + header */
-
+/***** VP + HEADER *****/
 header {
   flex-direction: column;
 }
@@ -30,8 +29,7 @@ header ul li {
   font-weight: 400;
 }
 
-/* Offer */
-
+/***** OFFER *****/
 .offer {
   padding: 5rem 1rem 5rem 1rem;
   text-align: center;
@@ -41,8 +39,7 @@ header ul li {
   flex-direction: column;
 }
 
-/* who */
-
+/***** WHO *****/
 .who {
   flex-direction: column-reverse;
 }
@@ -55,8 +52,7 @@ header ul li {
   padding: 4rem 2rem;
 }
 
-/* Testimonials */
-
+/***** TESTIMONIALS *****/
 .testimonials-elem {
   flex-direction: column;
 }
@@ -75,8 +71,7 @@ header ul li {
   margin: 2rem auto;
 }
 
-/* Contact */
-
+/***** CONTACT *****/
 .contact {
   padding: 5rem 1rem 5rem 1rem;
 }
